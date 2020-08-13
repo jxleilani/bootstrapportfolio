@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url("water.jpg");
+    background-size: cover;
+  }
+
+  .nav-item{
+    margin-right:15px;
+  }
+
+  .education{
+    width: 100%;
+  }
+
+  .footer{
+    position: fixed;
+    bottom: 0;
+  }
